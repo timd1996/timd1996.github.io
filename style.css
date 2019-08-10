@@ -69,5 +69,9 @@ li {
 .dateblock {
   float: right;
   font: 16px Verdana, Sans-serif;
-
+}
+p {
+  font-size:14px;
+  text-align: left;
+  margin-bottom:-10px;
 }
